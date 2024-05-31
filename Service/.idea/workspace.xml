@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3792edb-946e-4a64-b506-972d7cb63975" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2g5USgE7WqcT2JWAqUCd75XdaAB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/leona/Desktop/Curso/6 sem/CN/TP_FINAL/Trabalho Final/LabelsApp/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="CNV2024TF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="C:\Users\leona\Desktop\Curso\6 sem\CN\keys\cn2324-t2-g06-b192fb647866.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="CNV2024TF.Server" />
+      <module name="Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CNV2024TF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3792edb-946e-4a64-b506-972d7cb63975" name="Changes" comment="" />
+      <created>1714986934132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714986934132</updated>
+      <workItem from="1715332874590" duration="2831000" />
+      <workItem from="1715335726809" duration="1931000" />
+      <workItem from="1715782310803" duration="37000" />
+      <workItem from="1715782371858" duration="69000" />
+      <workItem from="1715782504163" duration="3320000" />
+      <workItem from="1715785869542" duration="996000" />
+      <workItem from="1715787176240" duration="2922000" />
+      <workItem from="1715791943173" duration="3982000" />
+      <workItem from="1715849969064" duration="9239000" />
+      <workItem from="1715859470549" duration="2057000" />
+      <workItem from="1715863167948" duration="139000" />
+      <workItem from="1715863329124" duration="252000" />
+      <workItem from="1715863589007" duration="301000" />
+      <workItem from="1715863911220" duration="91000" />
+      <workItem from="1715869094204" duration="1007000" />
+      <workItem from="1715870113933" duration="150000" />
+      <workItem from="1715870296897" duration="80000" />
+      <workItem from="1715870499228" duration="55000" />
+      <workItem from="1715870573925" duration="223000" />
+      <workItem from="1715870801168" duration="12615000" />
+      <workItem from="1715884726256" duration="16000" />
+      <workItem from="1715890602440" duration="6455000" />
+      <workItem from="1715935320256" duration="8064000" />
+      <workItem from="1715958508936" duration="739000" />
+      <workItem from="1715960318907" duration="9000" />
+      <workItem from="1715960705967" duration="662000" />
+      <workItem from="1715962968202" duration="13000" />
+      <workItem from="1716197765578" duration="1389000" />
+      <workItem from="1716227016765" duration="2187000" />
+      <workItem from="1716232553835" duration="395000" />
+      <workItem from="1716232985156" duration="133000" />
+      <workItem from="1716242316260" duration="390000" />
+      <workItem from="1716242877909" duration="15000" />
+      <workItem from="1716281838905" duration="2755000" />
+      <workItem from="1716285127369" duration="560000" />
+      <workItem from="1716294771905" duration="26000" />
+      <workItem from="1716299843450" duration="5588000" />
+      <workItem from="1716307259879" duration="93000" />
+      <workItem from="1716307413595" duration="2577000" />
+      <workItem from="1716312258985" duration="7000" />
+      <workItem from="1716315624341" duration="490000" />
+      <workItem from="1716381615660" duration="34000" />
+      <workItem from="1716382186545" duration="1596000" />
+      <workItem from="1716383889176" duration="267000" />
+      <workItem from="1716395895565" duration="740000" />
+      <workItem from="1716501320702" duration="280000" />
+      <workItem from="1716504845934" duration="74000" />
+      <workItem from="1716505309858" duration="1326000" />
+      <workItem from="1716546189741" duration="78000" />
+      <workItem from="1716546283006" duration="36000" />
+      <workItem from="1716546411064" duration="72000" />
+      <workItem from="1716569109229" duration="270000" />
+      <workItem from="1716570175990" duration="135000" />
+      <workItem from="1716646097399" duration="53000" />
+      <workItem from="1716806412076" duration="347000" />
+      <workItem from="1716925926396" duration="2145000" />
+      <workItem from="1716998741337" duration="92000" />
+      <workItem from="1717147645473" duration="2114000" />
+      <workItem from="1717156519610" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

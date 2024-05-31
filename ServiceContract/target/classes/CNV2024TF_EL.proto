@@ -1,0 +1,12 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+package CNV2024TF;
+
+service CNV2024TF_EL{
+  rpc resizeInstanceGroup(InstanceName) returns (google.protobuf.Empty);
+}
+
+message InstanceName{
+  string name = 1;
+  int32 newSize = 2;
+}

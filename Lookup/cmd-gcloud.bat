@@ -1,0 +1,1 @@
+gcloud functions deploy Lookup --allow-unauthenticated --entry-point=CNV2024TF.Entrypoint --runtime=java11 --trigger-http --region=us-central1 --service-account=cn2324-t2-g06@cn2324-t2-g06.iam.gserviceaccount.com --max-instances=3 --project=cn2324-t2-g06

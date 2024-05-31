@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+package CNV2024TF;
+
+service CNV2024TF {
+  rpc uploadPhoto(stream Block) returns (BlobIdentifier);
+  rpc getTranslatedCharacteristics(BlobIdentifier) returns (stream Characteristics);
+  rpc getAllFiles(DateAndCharacteristic) returns (stream File);
+}
+
+message Block {
+  string blobName = 1;
+  bytes data = 2;
+  string dataType = 3;
+}
+
+message BlobIdentifier {
+  string blobIdent = 1;
+  string blobDate = 2;
+}
+
+message Characteristics {
+  string name = 1;
+  string date = 2;
+}
+
+message DateAndCharacteristic {
+  string startDate = 1;
+  string endDate = 2;
+  string fileCharacteristic = 3;
+}
+
+message File {
+  string blobName = 1;
+}
+
+
